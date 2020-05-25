@@ -42,7 +42,7 @@ ul.menu li{
 	justify-content: space-around;
 	align-items: center;
 	min-height:8vh;
-	background-image: linear-gradient(to left, #fa709a, #fee140);
+	background-image: linear-gradient(to left, black, gray);
 	font-family: 'Poppins', sans-serif;
 }
 ul.menu{
@@ -108,12 +108,12 @@ ul li a img{
 }
 
 .dropdown:hover .dropbtn {
-  background-image: linear-gradient(to left, #fa709a, #fee140);
+  background-image: linear-gradient(to left, black, gray);
 }
 .dropdown-content {
   display: none;
   position: absolute;
-  background-image: linear-gradient(to left, #fa709a, #fee140);
+  background-image: linear-gradient(to left,white,gray);
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
